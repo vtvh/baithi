@@ -1,0 +1,26 @@
+[
+  {
+    "id": "S01",
+    "name": "Marnie",
+    "email": "marnie@gmail.com",
+    "dob":"2000-08-12"
+  },
+  {
+    "id": "S02",
+    "name": "Anne",
+    "email": "anne@yahoo.com",
+    "dob":"2003-12-12"
+  },
+  {
+    "id": "S03",
+    "name": "Chelsea",
+    "email": "chelsea@gmail.com",
+    "dob":"2002-02-25"
+  },
+  {
+    "id": "S04",
+    "name": "Washington",
+    "email": "washington@hotmail.com",
+    "dob":"2002-06-14"
+  }
+]
