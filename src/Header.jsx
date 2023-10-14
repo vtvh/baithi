@@ -1,13 +1,18 @@
 import React from "react";
-import { Route, Routes, Link } from "react-router-dom";
+import { Col, Container, Row } from "react-bootstrap";
+import { Link } from "react-router-dom";
 
 function Header() {
   return (
     <div>
-      <Link className="link" to="/">Home</Link>
-      <Link className="link" to="/list">Student List</Link>
-      <Link className="link" to="/add">Add New Student</Link>
-      <Link className="link" to="/">About us</Link>
+      <Container>
+        <Row>
+          <Col className="link"><Link to="/">Home</Link></Col>
+          <Col className="link"><Link to="/list">Student List</Link></Col>
+          <Col className="link"><Link to="/add">Add New Student</Link></Col>
+          <Col className="link"><Link to="/">About us</Link></Col>
+        </Row>
+      </Container>
     </div>
   );
 }
