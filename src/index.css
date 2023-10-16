@@ -6,19 +6,19 @@ body {
 }
 
 code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
     monospace;
 }
 
-.footer{
+.footer {
   text-align: center;
   font-weight: bold;
 }
 
-.link{
+.link {
   text-align: center;
 }
 
-h1{
+h1 {
   text-align: center;
 }
