@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "name": "Mickey Mouse",
+    "desc": "Mickey Mouse is undoubtedly one of the most iconic and beloved fictional characters in the history of entertainment. Created by Walt Disney and Ub Iwerks, Mickey made his debut in the animated short film \"Steamboat Willie\" on November 18, 1928. Since then, he has become the official mascot of The Walt Disney Company and an enduring symbol of the magic and charm that Disney represents.",
+    "pic":"mickey.png"
+  },
+  {
+    "id": 2,
+    "name": "Minnie Mouse",
+    "desc": "Minnie Mouse, like her counterpart Mickey, is a beloved and iconic Disney character who has captured the hearts of audiences around the world. She made her debut alongside Mickey Mouse in the animated short film \"Steamboat Willie\" in 1928 and quickly became an integral part of Disney's rich history.",
+    "pic":"daisy.png"
+  },
+  {
+    "id": 3,
+    "name": "Donald Duck",
+    "desc": "Donald Duck is one of the most iconic and enduring Disney characters, known for his distinctive voice and often comedic and sometimes irritable personality. Created by Walt Disney and Dick Lundy, Donald made his debut in the Silly Symphonies cartoon \"The Wise Little Hen\" in 1934. Since then, he has become a beloved and central figure in the world of Disney animation.",
+    "pic":"donald.png"
+  },
+  {
+    "id": 4,
+    "name": "Goofy Goof",
+    "desc": "Goofy, also known as Goofy Goof, is a beloved Disney character known for his distinctive and endearing personality. Created by Walt Disney Productions, Goofy made his first appearance in the 1932 cartoon short \"Mickey's Revue\" and has since become a beloved and iconic figure in the world of animation.",
+    "pic":"goofy.png"
+  }
+]
