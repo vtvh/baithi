@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1,
+    "name": "Mickey-shaped",
+    "pic": "f1.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Star-war characters",
+    "pic": "f2.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Popcorn",
+    "pic": "f3.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Chicken Snacks",
+    "pic": "f4.jpg"
+  }
+]

@@ -6,23 +6,23 @@ import { AiFillCrown } from "react-icons/ai";
 import { MdPermContactCalendar } from "react-icons/md";
 import { Dropdown } from "react-bootstrap";
 
+
 function MyDropdown() {
   return (
     <Dropdown className="dropdown">
       <Link>
-        <Dropdown.Toggle variant="" id="dropdown-basic">
+        <Dropdown.Toggle variant="info" id="dropdown-basic">
           Categories
         </Dropdown.Toggle>
       </Link>
 
       <Dropdown.Menu>
         <Dropdown.Item href="/char">Characters Greeting</Dropdown.Item>
-        <Dropdown.Item href="/">Action 2</Dropdown.Item>
-        <Dropdown.Item href="/">Action 3</Dropdown.Item>
-        link
+        <Dropdown.Item href="/map">Map</Dropdown.Item>
+        <Dropdown.Item href="/dining">Dining</Dropdown.Item>
       </Dropdown.Menu>
     </Dropdown>
-  );
+  )
 }
 
 function Header() {
@@ -39,7 +39,7 @@ function Header() {
             </span>
           </Row>
           <Row>
-            <Link to="/">
+            <Link to="/" >
               <span className="header-text">Homepage</span>
             </Link>
           </Row>

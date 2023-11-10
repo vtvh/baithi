@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "name": "Anniversary Event Fun Fusion Resort 40th Dream-Go-Round",
+    "date": "Apr 15, 2023 ~ Mar 31, 2024",
+    "detail": "",
+    "pic": "e1.png"
+  },
+  {
+    "id": 2,
+    "name": "Christmas at Fun Fusion",
+    "date": "Nov 8, 2023 ~ Dec 25, 2023",
+    "detail": "",
+    "pic": "e2.png"
+  },
+  {
+    "id": 3,
+    "name": "New Year Eve at Fun Fusion",
+    "date": "Jan 1, 2024 ~ Jan 8, 2024",
+    "detail": "",
+    "pic": "e3.png"
+  },
+  {
+    "id": 4,
+    "name": "Fun Fusion Lets meet Minnie",
+    "date": "Jan 10, 2024 ~ Mar 19, 2024",
+    "detail": "",
+    "pic": "e4.png"
+  },
+  {
+    "id": 5,
+    "name": "Check the games at Fun Fusion",
+    "date": "Jan 1, 2024 ~ Jan 8, 2024",
+    "detail": "",
+    "pic": "e5.png"
+  },
+  {
+    "id": 6,
+    "name": "Learn more about Fun Fusion",
+    "date": "Nov 8, 2023 ~ Dec 25, 2023",
+    "detail": "",
+    "pic": "e6.png"
+  }
+]
