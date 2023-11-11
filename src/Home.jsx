@@ -3,6 +3,7 @@ import Header from "./Header";
 import Footer from "./Footer";
 import { Button,Card, Carousel, Container } from "react-bootstrap";
 import events from "./events.json";
+import { useNavigate } from "react-router-dom";
 
 function Home() {
   return (
@@ -24,6 +25,7 @@ function Home() {
 }
 
 function Events() {
+  const navigate=useNavigate();
   return (
     <div className="d-flex flex-wrap gap-5">
       {events.map((p, index) => (
@@ -34,7 +36,7 @@ function Events() {
             <Card.Text>
             {p.date}
             </Card.Text>
-          {/* <Button variant="primary">Go somewhere</Button> */}
+          <Button onClick={()=>navigate(`/events/${p.id}`)} variant="primary">See Detail</Button>
           </Card.Body>
 
         </Card>
