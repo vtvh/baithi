@@ -36,7 +36,7 @@ function Events() {
             <Card.Text>
             {p.date}
             </Card.Text>
-          <Button onClick={()=>navigate(`/events/${p.id}`)} variant="primary">See Detail</Button>
+          <Button href={`/events/${p.id}`} variant="primary">See Detail</Button>
           </Card.Body>
 
         </Card>
